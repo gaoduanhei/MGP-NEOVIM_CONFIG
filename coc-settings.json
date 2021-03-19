@@ -1,0 +1,12 @@
+{
+	"coc.preferences.extensionUpdateCheck": "daily",
+	"suggest.noselect": true,
+	"suggest.enablePreselect":false,
+	"prettier.tabWidth": 4,
+	"prettier.semi": true,
+	"prettier.singleQuote": true,
+	"prettier.jsxBracketSameLine": false,
+	"prettier.printWidth":10,
+	"prettier.arrowParens":"avoid",
+	"coc.preferences.formatOnSaveFiletypes": ["markdown", "javascript", "css", "jsx" , "scss, html,"]
+}
