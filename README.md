@@ -10,5 +10,5 @@
 ## Keybord settings
 + I set the key ***jj*** to go back from **Insert mode** to **Nomal Mode**
 ### jump cursor(easy-motion)
-+ I set th key ***Space Space*** for search single letter which you want to go (not recommend)
-+ If you have multi widows in vim use single letter search you will get multi targets so I recommend you use ***ss*** to search double letters where you wan to go.
++ I set the key ***Space Space*** for search single letter which you want to go (not recommend)
++ If you have multi widows in vim use single letter search you will get multi targets so I recommend you use the key ***ss*** to search double letters where you wan to go.
