@@ -12,3 +12,6 @@
 ### jump cursor(easy-motion)
 + I set the key ***Space Space*** for search single letter which you want to go (not recommend)
 + If you have multi widows in vim use single letter search you will get multi targets so I recommend you use the key ***ss*** to search double letters where you wan to go.
+##Q&A
++ if wrong with: E117: Unknown function: CocActionAsync
++ try to this: source ~/.config/nvim/plugged/coc.nvim/plugin/coc.vim
